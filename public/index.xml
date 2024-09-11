@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sam O-C</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Sam O-C</description>
+    <generator>Hugo</generator>
+    <language>en-GB</language>
+    <lastBuildDate>Wed, 11 Sep 2024 18:00:22 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Nixos</title>
+      <link>http://localhost:1313/gallery/nixos/</link>
+      <pubDate>Wed, 11 Sep 2024 18:00:22 +0100</pubDate>
+      <guid>http://localhost:1313/gallery/nixos/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>LaTeX</title>
+      <link>http://localhost:1313/gallery/latex/</link>
+      <pubDate>Wed, 11 Sep 2024 17:32:17 +0100</pubDate>
+      <guid>http://localhost:1313/gallery/latex/</guid>
+      <description>&lt;h1 id=&#34;how-i-found-a-love-for-latex&#34;&gt;How I found a love for LaTeX.&lt;/h1&gt;&#xA;&lt;p&gt;I first came across LaTeX during a Wikipedia Binge whilst in Sixth Form (Year 12 specifically) and it piqued my interest owing to my strong dislike of the clunky and slow MS Word and the fast but limited Notepad.&lt;/p&gt;&#xA;&lt;p&gt;So, I began to try to learn LaTeX, at first I struggled, after all, what 17 Year Old would want to learn something almost exclusively used in academic and technical publishing. But the results spoke for themselves, the neat, clear typesetting; the ease of just having to worry about the contents, with the compiler doing all the (not) fun bits of layouts and image placements and the like.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Wed, 11 Sep 2024 17:06:26 +0100</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;Hi 👋🏼, I am Sam Orman-Chan.  I am currently a Student at the University of Lincoln in the UK, reading a Bachelors&amp;rsquo; in Computer Science.&lt;/p&gt;&#xA;&lt;p&gt;My interests are related to:&lt;/p&gt;&#xA;&lt;pre&gt;&lt;code&gt;* Intersections of Computer Science &amp;amp; Human Rights.&#xA;* Neurodivergence, Disability and Queerness.&#xA;* Democracy and the Impact Technology has thereof.&#xA;* History: Near East &amp;amp; Sinosphere Asia.&#xA;* Languages &amp;amp; Lingustics: Indo-European and Near Eastern.&#xA;&lt;/code&gt;&lt;/pre&gt;&#xA;&lt;p&gt;Additionally, I like Rabbits. 🐰&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
