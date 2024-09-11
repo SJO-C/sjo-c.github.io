@@ -1,9 +1,9 @@
 ---
 # [str] Title of the project. This is also visible when hovering over a gallery item.
-title: "Nixos"
+title: "NixOS"
 # [str] Optional subtitle of the project. 
 #   Functions as an additional explanation when hovering over a gallery item (comment out the following line).
-# subtitle: ""
+ subtitle: "Ask Me about NixOS"
 # [date] Project publication date.
 #   Changes order: The newest item will be displayed first in the gallery. 
 #   Just like Hugo's natural ordering, this is anti-chronological.
@@ -39,14 +39,14 @@ color: "#fff"
     #   wait: 75
     # - data: exit
     #   wait: 75
-buttons:
-  - i18n: view # i18n key (see i18n directory, see https://gohugo.io/functions/i18n/)
-    icon: view # optional: use an icon from icons.yaml
-    newTab: false # optional: controls if url should be opened in new tab
-    url: ""
-  - i18n: code 
-    icon: code
-    url: ""
+# buttons:
+#   - i18n: view # i18n key (see i18n directory, see https://gohugo.io/functions/i18n/)
+#     icon: view # optional: use an icon from icons.yaml
+#     newTab: false # optional: controls if url should be opened in new tab
+#     url: ""
+#   - i18n: code 
+#     icon: code
+#     url: ""
 # [bool] Draft mode will decide if file will be published to 'public/' directory.
 draft: false
 ---
