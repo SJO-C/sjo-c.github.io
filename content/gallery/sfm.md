@@ -45,7 +45,7 @@ buttons:
     newTab: true # optional: controls if url should be opened in new tab
     url: "https://www.lincoln.ac.uk/studentfuturesmanifesto/"
 # [bool] Draft mode will decide if file will be published to 'public/' directory.
-draft: true
+draft: false
 ---
 In late 2022, I applied and was subsequently recruited as a student consultant to a joint project between my Institution's (University of Lincoln) [Lincoln Academy of Learning & Teaching](https://lalt.lincoln.ac.uk) and my Institution's [Students' Union](https://lincolnsu.com/home), called the Student Futures Manifesto Project, a project that had been proposed by the [UPP Foundation](https://upp-foundation.org/wp-content/uploads/2022/02/A-Student-Futures-Manifesto-Final-Report-of-the-Student-Futures-Commission.pdf) to try to mitigate the impact the COVID-19 Pandemic had on higher education.  Lincoln was one of 20 such Institutions in the UK to partake, and I was one of Six Students within Lincoln who acted as consultants to the project.  
 
