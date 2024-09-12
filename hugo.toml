@@ -8,7 +8,7 @@ enableEmoji = true
 pygmentsUseClasses = true
 
 [module.imports]
-path = "https://github.com/kdevo/osprey-delight/v5"
+path = "osprey-delight"
 
 [Params]
 description = ""
