@@ -50,3 +50,4 @@ color: "#fff"
 # [bool] Draft mode will decide if file will be published to 'public/' directory.
 draft: true
 ---
+I became aware of Amnesty Int'l from my Mother around 2015, but was unable to obtain membership till the age of 14, which I did on my 14th Birthday.  Amnesty ignited a passion in me for fighting injustices around the world, from the asymmetry of the Israel/Palestine Conflict, to the Situation in Hong Kong, and in Europe with its response to the Syrian Refugee Crisis.  
