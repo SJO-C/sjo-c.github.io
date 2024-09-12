@@ -11,7 +11,7 @@ pygmentsUseClasses: true
 
 module:
   imports:
-  - path: github.com/kdevo/osprey-delight/v5
+   path: github.com/kdevo/osprey-delight/v5
   # useful for local development of the theme:
   # replacements:
   # - github.com/kdevo/osprey-delight/v5 -> ../../.
