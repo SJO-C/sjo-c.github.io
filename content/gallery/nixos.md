@@ -50,4 +50,5 @@ color: "#fff"
 # [bool] Draft mode will decide if file will be published to 'public/' directory.
 draft: true
 ---
-As with LaTeX, I found out about NixOS during a Wikipedia Binge, and decided to try it as I have been vaguely involved in the Linux Desktop scene for about 11 Years.  As such, the idea of a Functional Paradigm based Package Management System was certainly interesting, and since I had recently fubar'd my Ubuntu Install 
+As with LaTeX, I found out about NixOS during a Wikipedia Binge, and decided to try it as I have been vaguely involved in the Linux Desktop scene for about 11 Years.  As such, the idea of a Functional Paradigm based Package Management System was certainly interesting, and since I had recently fubar'd my Ubuntu Install (due to not understanding DKMS modules and the fact that ZFS on Ubuntu was reliant on them), I thought I'd give NixOS a try.
+
