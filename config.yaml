@@ -23,20 +23,20 @@ Params:
   description: ""
 
   # logoBig appears at the top of the page. Use a path relative to the assets dir for auto-resizing. 
-  logoBig: "osprey-delight.png"
+ # logoBig: "osprey-delight.png"
 
   # logoSmall is the logo that will be shown in the left corner of the nav bar.
   #   Use a path relative to the assets dir for auto-resizing.
-  logoSmall: "favicon.png"
+ # logoSmall: "favicon.png"
   
   # background can optionally be specified as an image layer behind logoBig at the top of the page (parallax effect).
   #background: "background.jpg"
   
   # opengraphImage specifies the image that is shown when previewing the site in a messenger or Google Search.
-  opengraphImage: "/images/osprey-delight.png"
+ # opengraphImage: "/images/osprey-delight.png"
 
   # favicon of the site (e.g. smaller version of logoSmall).
-  favicon: "favicon.png"
+ # favicon: "favicon.png"
 
   # theme your site by choosing one of the themes under assets/sass/themes:
   #   - delight is the light version of osprey-delight
