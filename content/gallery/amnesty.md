@@ -3,7 +3,7 @@
 title: "Amnesty"
 # [str] Optional subtitle of the project. 
 #   Functions as an additional explanation when hovering over a gallery item (comment out the following line).
-subtitle: "Ask me about my work with Amnesty International UK Section"
+subtitle: "Ask me about my work with Amnesty International UK Section."
 # [date] Project publication date.
 #   Changes order: The newest item will be displayed first in the gallery. 
 #   Just like Hugo's natural ordering, this is anti-chronological.
@@ -51,3 +51,5 @@ color: "#fff"
 draft: true
 ---
 I became aware of Amnesty Int'l from my Mother around 2015, but was unable to obtain membership till the age of 14, which I did on my 14th Birthday.  Amnesty ignited a passion in me for fighting injustices around the world, from the asymmetry of the Israel/Palestine Conflict, to the Situation in Hong Kong, and in Europe with its response to the Syrian Refugee Crisis.  
+
+Since then, I got involved with local Amnesty Groups, initially the Wirksworth Group owing to its locality and later with the Lincoln Group after moving to attend University. From that point, I acted as a sounding board for the Lincoln group with regard to youth, and since July 2024, I have been the Disabled Students' Justice Officer on the STAN (Student Action Network) Committee for 2024/25.  
