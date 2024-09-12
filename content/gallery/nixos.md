@@ -52,3 +52,4 @@ draft: true
 ---
 As with LaTeX, I found out about NixOS during a Wikipedia Binge, and decided to try it as I have been vaguely involved in the Linux Desktop scene for about 11 Years.  As such, the idea of a Functional Paradigm based Package Management System was certainly interesting, and since I had recently fubar'd my Ubuntu Install (due to not understanding DKMS modules and the fact that ZFS on Ubuntu was reliant on them), I thought I'd give NixOS a try.
 
+When I initally installed NixOS, I depended on the Web Manual, and had to do most of the Install Process, drive petitioning etc. in the Terminal.  Thankfully, NixOS's documentation is well written and easy to understand.  From that point, I became fairly quickly accustomed to using the `/etc/nixos/configuaration.nix` file for system and package management, such as setting up docker and nVidia drivers.  
