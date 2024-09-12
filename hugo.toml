@@ -1,0 +1,65 @@
+title = "Sam O-C"
+baseURL = "https://www.samoc.uk"
+languageCode = "en-GB"
+theme = "github.com/kdevo/osprey-delight/v5"
+tags = [ "personal", "homepage", "portfolio" ]
+disableKinds = [ "taxonomy" ]
+enableEmoji = true
+pygmentsUseClasses = true
+
+[module.imports]
+path = "github.com/kdevo/osprey-delight/v5"
+
+[Params]
+description = ""
+theme = "dedark"
+mdTagline = """
+# I am:
+ # Sam Orman-Chan{cursor}"""
+enforceSinglePage = false
+copyright = true
+credit = true
+
+  [Params.author]
+  name = "Samuel Orman-Chan"
+
+  [[Params.Social]]
+  type = "fab twitter"
+  url = "https://www.x.com/sorm_cha"
+
+  [[Params.Social]]
+  type = "fab linkedin"
+  url = "https://www.linkedin.com/in/samuel-orman-chan/"
+
+  [[Params.Social]]
+  type = "fab github"
+  url = "https://github.com/SJO-C/"
+
+  [Params.Feat]
+  useStructuredData = true
+  structuredDataGitHubUser = "SJO-C"
+  useTermynal = true
+  googleTagManager = ""
+  notifyOnNewThemeVersion = true
+
+[Params.Image.Logo]
+resize = "600x"
+
+[Params.Image.Gallery]
+resize = "600x"
+
+[Params.Image.Background]
+resize = "1920x"
+resizeLQIP = "256x"
+
+[[Menu.Main]]
+name = "About"
+identifier = "about"
+url = "/#about"
+weight = 1
+
+[[Menu.Main]]
+name = "Work"
+identifier = "gallery"
+url = "/#work"
+weight = 2
