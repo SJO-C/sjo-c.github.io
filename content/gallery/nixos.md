@@ -3,7 +3,7 @@
 title: "NixOS"
 # [str] Optional subtitle of the project. 
 #   Functions as an additional explanation when hovering over a gallery item (comment out the following line).
- subtitle: "Ask Me about NixOS"
+subtitle: "Ask Me about NixOS"
 # [date] Project publication date.
 #   Changes order: The newest item will be displayed first in the gallery. 
 #   Just like Hugo's natural ordering, this is anti-chronological.
@@ -48,5 +48,6 @@ color: "#fff"
 #     icon: code
 #     url: ""
 # [bool] Draft mode will decide if file will be published to 'public/' directory.
-draft: false
+draft: true
 ---
+As with LaTeX, I found out about NixOS during a Wikipedia Binge, and decided to try it as I have been vaguely involved in the Linux Desktop scene for about 11 Years.  As such, the idea of a Functional Paradigm based Package Management System was certainly interesting, and since I had recently fubar'd my Ubuntu Install 
