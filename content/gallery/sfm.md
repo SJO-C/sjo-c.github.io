@@ -47,3 +47,4 @@ buttons:
 # [bool] Draft mode will decide if file will be published to 'public/' directory.
 draft: true
 ---
+In late 2022, I applied and was subsequently recruited as a student consultant to a joint project between my Institution's (University of Lincoln) [Lincoln Academy of Learning & Teaching](https://lalt.lincoln.ac.uk) and my Instituion's [Students' Union](https://lincolnsu.com/home)
