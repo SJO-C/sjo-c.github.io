@@ -1,5 +1,5 @@
 title = "Sam O-C"
-baseURL = "https://www.samoc.uk"
+baseURL = "https://samoc.uk"
 languageCode = "en-GB"
 theme = "github.com/kdevo/osprey-delight/v5"
 tags = [ "personal", "homepage", "portfolio" ]
