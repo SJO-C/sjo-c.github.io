@@ -3,7 +3,7 @@
 title: "Amnesty"
 # [str] Optional subtitle of the project. 
 #   Functions as an additional explanation when hovering over a gallery item (comment out the following line).
-# subtitle: ""
+subtitle: "Ask me about my work with Amnesty International UK Section"
 # [date] Project publication date.
 #   Changes order: The newest item will be displayed first in the gallery. 
 #   Just like Hugo's natural ordering, this is anti-chronological.
@@ -13,7 +13,7 @@ date: "2024-09-12T14:16:43+01:00"
 # [str] Gallery image file from the assets directory. 
 image: "images/amnesty.png"
 # [str] Alternative (image) description.
-alt: ""
+alt: Amnesty Int'l Candle with Barbed Wire Logo, black on white monochrome."
 # [css] Optional background color of the gallery item (if omitted, will use theme's fallback).
 color: "#fff"
 # [css] Optional gallery item hover color (if omitted, will use theme's fallback).
@@ -39,14 +39,14 @@ color: "#fff"
     #   wait: 75
     # - data: exit
     #   wait: 75
-buttons:
-  - i18n: view # i18n key (see i18n directory, see https://gohugo.io/functions/i18n/)
-    icon: view # optional: use an icon from icons.yaml
-    newTab: false # optional: controls if url should be opened in new tab
-    url: ""
-  - i18n: code 
-    icon: code
-    url: ""
+# buttons:
+#   - i18n: view # i18n key (see i18n directory, see https://gohugo.io/functions/i18n/)
+#     icon: view # optional: use an icon from icons.yaml
+#     newTab: false # optional: controls if url should be opened in new tab
+#     url: ""
+#   - i18n: code 
+#     icon: code
+#     url: ""
 # [bool] Draft mode will decide if file will be published to 'public/' directory.
 draft: true
 ---

@@ -3,7 +3,7 @@
 title: "Student Futures Manifesto"
 # [str] Optional subtitle of the project. 
 #   Functions as an additional explanation when hovering over a gallery item (comment out the following line).
-subtitle: "Ask me about the Student Futures Manifesto at the University of Lincoln."
+subtitle: "Ask me about the Student Futures Manifesto at the University of Lincoln's LALT & Students' Union."
 # [date] Project publication date.
 #   Changes order: The newest item will be displayed first in the gallery. 
 #   Just like Hugo's natural ordering, this is anti-chronological.
@@ -42,11 +42,8 @@ color: "#fff"
 buttons:
   - i18n: view # i18n key (see i18n directory, see https://gohugo.io/functions/i18n/)
     icon: view # optional: use an icon from icons.yaml
-    newTab: false # optional: controls if url should be opened in new tab
-    url: ""
-  - i18n: code 
-    icon: code
-    url: ""
+    newTab: true # optional: controls if url should be opened in new tab
+    url: "https://www.lincoln.ac.uk/studentfuturesmanifesto/"
 # [bool] Draft mode will decide if file will be published to 'public/' directory.
 draft: true
 ---
