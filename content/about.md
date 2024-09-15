@@ -1,7 +1,7 @@
 +++
 title = 'About'
 date = 2024-09-11T17:06:26+01:00
-draft = true
+draft = false
 +++
 Hi 👋🏼, I am Sam Orman-Chan.  I am currently a Student at the University of Lincoln in the UK, reading a Bachelors' in Computer Science.
 

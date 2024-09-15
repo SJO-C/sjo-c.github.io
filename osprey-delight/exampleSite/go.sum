@@ -11,3 +11,5 @@ github.com/hugo-mods/release-notify v0.0.0-20211204191115-572031cb0d70 h1:oBpbA4
 github.com/hugo-mods/release-notify v0.0.0-20211204191115-572031cb0d70/go.mod h1:RYv2eTG8LmJsxnEajLP4wkOLK3GDmwNterXVWgW6DYA=
 github.com/kdevo/osprey-delight/v5 v5.0.4 h1:z0cbilEe08h98/InkbzXFLl+nGlpAgUEHJ3FzAY4Frs=
 github.com/kdevo/osprey-delight/v5 v5.0.4/go.mod h1:VUG2wTkPzpOET3vq1qlHBPwMjPy1zg5dPlgjf4aGqcw=
+github.com/kdevo/osprey-delight/v5 v5.0.7 h1:VNbM6e+0FWwAnv3BCtUG2nZ9V7V9i60kWHcAIp41b0U=
+github.com/kdevo/osprey-delight/v5 v5.0.7/go.mod h1:VUG2wTkPzpOET3vq1qlHBPwMjPy1zg5dPlgjf4aGqcw=
