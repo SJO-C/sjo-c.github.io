@@ -48,5 +48,5 @@ buttons:
     icon: code
     url: ""
 # [bool] Draft mode will decide if file will be published to 'public/' directory.
-draft: false
+draft: true
 ---
