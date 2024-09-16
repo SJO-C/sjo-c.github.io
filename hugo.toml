@@ -7,7 +7,7 @@ tags = [ "personal", "homepage", "portfolio" ]
 disableKinds = [ "taxonomy" ]
 enableEmoji = true
 pygmentsUseClasses = true
-background = "background.png"
+background = "background.jpeg"
 
 [module.imports]
 path = "github.com/kdevo/osprey-delight/v5"
