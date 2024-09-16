@@ -11,6 +11,6 @@ My interests are related to:
 * Neurodivergence, Disability and Queerness.
 * Democracy and the Impact Technology has thereof.
 * History: Near East & Sinosphere Asia.
-* Languages & Lingustics: Indo-European and Near Eastern.
+* Languages & Linguistics: Indo-European and Near Eastern.
 
 Additionally, I like Rabbits. 🐰
