@@ -1,6 +1,6 @@
 title = "Sam O-C"
-# baseURL = "https://samoc.uk"
-baseURL = "https://hugo1soc.web.app"
+baseURL = "https://samoc.uk"
+# baseURL = "https://hugo1soc.web.app"
 languageCode = "en-GB"
 theme = "github.com/kdevo/osprey-delight/v5"
 tags = [ "personal", "homepage", "portfolio" ]
