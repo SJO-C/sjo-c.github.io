@@ -13,7 +13,7 @@ path = "github.com/kdevo/osprey-delight/v5"
 
 
 [Params]
-description = ""
+description = "Website of Samuel Orman-Chan"
 theme = "dedark"
 mdTagline = """
 # I am:
