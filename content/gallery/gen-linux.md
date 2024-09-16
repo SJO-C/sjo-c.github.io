@@ -1,6 +1,6 @@
 ---
 # [str] Title of the project. This is also visible when hovering over a gallery item.
-title: "Gen Linux"
+title: "General Linux"
 # [str] Optional subtitle of the project. 
 #   Functions as an additional explanation when hovering over a gallery item (comment out the following line).
 # subtitle: ""
