@@ -50,3 +50,6 @@ color: "#fff"
 # [bool] Draft mode will decide if file will be published to 'public/' directory.
 draft: true
 ---
+I first got involved in the Linux Scene c.2012, with the initial Raspberry Pi model B, which had the Raspbian OS (now known as Raspberry Pi OS) as its recommended OS.  As a consequence, I began to learn the rope (so to speak) of Debian(based) Linux from around age 10.  From that point, I mainly used Debian & Ubuntu (and its derivatives) on my Pi & in Virtual Box on the Family Computer.  However, it wasn't until I reached Sixth Form that I began to experiment with non-Debian (dpkg/apt) derived Distros, owing to lack of familiarity with other package managers. In 2019, I tried Fedora, necessitating the learning of the Dandified Yum (DNF) package manager whilst also getting use to a system with SELinux enforcement. 
+
+It was during this time, pre-COVID, that I started to use NixOS - as a consequence of Fubar-ing an Ubuntu Install.  I managed to break the Ubuntu install to the point of Kernel Panics on Boot, after attempting to upgrade the Kernel Version, whilst using an OpenZFS file system which, it transpired, was reliant on a DKMS module driver, which I hadn't realised I had to update.  
