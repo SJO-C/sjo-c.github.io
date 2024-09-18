@@ -5,6 +5,7 @@ date = 2024-09-18T11:52:01+01:00
 draft = true
 +++
 ## Get in Touch:
+
 * Email me: [hi@samoc.dev](mailto:hi@samoc.dev)
 * Find me on Mastodon: [@ChanOfRed@fosstodon.org](https://fosstodon.org/@ChanOfRed)
 * Keybase.io: [sjoc](https://keybase.io/sjoc)
