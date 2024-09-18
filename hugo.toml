@@ -71,6 +71,6 @@ weight = 2
 
 [[Menu.Main]]
 name = "Contact"
-identifier = "contact"
-url = "/contact-me"
+identifier = "contact-me"
+url = "/#contact"
 weight = 3

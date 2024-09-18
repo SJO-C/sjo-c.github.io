@@ -13,7 +13,7 @@ date: "2024-09-16T18:52:57+01:00"
 # [str] Gallery image file from the assets directory. 
 image: "images/proxmox.png"
 # [str] Alternative (image) description.
-alt: ""
+alt: "Proxmox Logo"
 # [css] Optional background color of the gallery item (if omitted, will use theme's fallback).
 color: "#fff"
 # [css] Optional gallery item hover color (if omitted, will use theme's fallback).

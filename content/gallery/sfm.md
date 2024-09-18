@@ -13,7 +13,7 @@ date: "2024-09-12T14:17:21+01:00"
 # [str] Gallery image file from the assets directory. 
 image: "images/sfm.jpeg"
 # [str] Alternative (image) description.
-alt: ""
+alt: "Cover of UPP Foundation's Student Futures Report."
 # [css] Optional background color of the gallery item (if omitted, will use theme's fallback).
 color: "#fff"
 # [css] Optional gallery item hover color (if omitted, will use theme's fallback).

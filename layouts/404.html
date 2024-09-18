@@ -7,8 +7,9 @@
       <div class="row full center-xs middle-xs">
         <div class="col-xs-12">
             <h1>404: Not Found</h1>
-            <p>Sorry, the requested page does not exist.</p>
-            <div style="transform:rotate(-180deg);text-align:center"><p id="noChoiceFound">{{ "The :cake: is a lie!" | emojify }}</p></div>
+            <p>Sorry, the requested page was eaten, probably by Hannah, maybe by Martha.</p>
+            <div style="transform:
+            rotate(-180deg);text-align:center"><p id="noChoiceFound">{{ "Hannah the Grey :rabbit: and Martha the Black :rabbit:!" | emojify }}</p></div>
             <div id="foundChoices" hidden>We can offer you the following similar page(s):</div>
             <ul id="choices" hidden>
                 {{- range .Data.Pages -}}{{ if .Title -}}
