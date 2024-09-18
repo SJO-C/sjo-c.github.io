@@ -3,9 +3,9 @@
   
 
 <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
-  <title>404 Page not found | Sam O-C</title>
+  <title>Contact | Sam O-C</title>
 
-  <meta name="title" content="404 Page not found | Sam O-C">
+  <meta name="title" content="Contact | Sam O-C">
 
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -18,9 +18,9 @@
 
   
     
-  <meta property="og:title" content="404 Page not found | Sam O-C">
+  <meta property="og:title" content="Contact | Sam O-C">
   <meta property="og:type" content="website">
-  <meta property="og:url" content="http://localhost:1313/404.html">
+  <meta property="og:url" content="http://localhost:1313/contact/">
   
   
 
@@ -28,7 +28,7 @@
 
   
 
-  <link rel="canonical" href="http://localhost:1313/404.html">
+  <link rel="canonical" href="http://localhost:1313/contact/">
   
   
 
@@ -139,41 +139,34 @@
 </section>
 
     <main>
-      <div class="row full center-xs middle-xs">
-        <div class="col-xs-12">
-            <h1>404: Not Found</h1>
-            <p>Sorry, the requested page does not exist.</p>
-            <div style="transform:rotate(-180deg);text-align:center"><p id="noChoiceFound">The 🍰 is a lie!</p></div>
-            <div id="foundChoices" hidden>We can offer you the following similar page(s):</div>
-            <ul id="choices" hidden><li class="choice">
-                    <a href="http://localhost:1313/contact-me/">🔗 Contact</a></li><li class="choice">
-                    <a href="http://localhost:1313/">🔗 Sam O-C</a></li><li class="choice">[Gallery]
-                    <a href="http://localhost:1313/gallery/">🔗 Galleries</a></li><li class="choice">[Gallery]
-                    <a href="http://localhost:1313/gallery/prxmx/">🔗 Proxmox</a></li><li class="choice">[Gallery]
-                    <a href="http://localhost:1313/gallery/gen-linux/">🔗 General Linux</a></li><li class="choice">[Gallery]
-                    <a href="http://localhost:1313/gallery/sfm/">🔗 Student Futures Manifesto</a></li><li class="choice">[Gallery]
-                    <a href="http://localhost:1313/gallery/amnesty/">🔗 Amnesty</a></li><li class="choice">[Gallery]
-                    <a href="http://localhost:1313/gallery/nixos/">🔗 NixOS</a></li><li class="choice">[Gallery]
-                    <a href="http://localhost:1313/gallery/latex/">🔗 LaTeX</a></li><li class="choice">
-                    <a href="http://localhost:1313/about/">🔗 About</a></li>
-                    </ul>
-            <script type="application/json" id="jsonContent">
-            [
-                
-                        " Contact  http://localhost:1313/contact-me/",
-                        " Sam O-C  http://localhost:1313/",
-                        "gallery Galleries  http://localhost:1313/gallery/",
-                        "gallery Proxmox  http://localhost:1313/gallery/prxmx/",
-                        "gallery General Linux  http://localhost:1313/gallery/gen-linux/",
-                        "gallery Student Futures Manifesto  http://localhost:1313/gallery/sfm/",
-                        "gallery Amnesty  http://localhost:1313/gallery/amnesty/",
-                        "gallery NixOS  http://localhost:1313/gallery/nixos/",
-                        "gallery LaTeX  http://localhost:1313/gallery/latex/",
-                        " About  http://localhost:1313/about/"
-            ]
-            </script>
-        </div>
-      </div>
+
+      <section class="container">
+        <section class="content">
+          <h1> Contact </h1>
+
+            <div class="sub-header">
+              September 18, 2024 · One minute read
+            </div>
+
+          <article class="entry-content">
+            <h1 id="contact-me">Contact Me:</h1>
+<ul>
+<li>Email me: <a href="mailto:hi@samoc.dev">hi@samoc.dev</a></li>
+<li>Find me on Mastodon: <a href="https://fosstodon.org/@ChanOfRed">@ChanOfRed@fosstodon.org</a></li>
+</ul>
+
+          </article>
+
+          <div class="pagination">
+            
+              <a href="http://localhost:1313/about/">&laquo; About</a>
+            
+            
+          </div>
+        </section>
+        <br>
+        
+      </section>
 
     </main>
     <footer>
@@ -382,25 +375,4 @@
 
 
   </body>
-  <script>
-      const loc = window.location.pathname;
-      const seg = loc.substring(loc.lastIndexOf('/') + 1).toUpperCase();
-      if (seg.length > 1) {
-          const els = document.getElementsByClassName("choice");
-          const txt = JSON.parse(document.getElementById('jsonContent').innerHTML);
-          var cnt = 0;
-          for (var i = 0; i < els.length; i++) {
-              if (txt[i].toUpperCase().includes(seg)) {
-                  cnt++;
-              } else {
-                  els[i].style.display = "none";
-              }
-          }
-          if (cnt > 0) {
-              document.getElementById('noChoiceFound').setAttribute("hidden", true);
-              document.getElementById('foundChoices').removeAttribute("hidden");
-              document.getElementById('choices').removeAttribute("hidden");
-          }
-      }
-  </script>
 </html>

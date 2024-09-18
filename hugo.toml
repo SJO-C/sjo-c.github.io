@@ -68,3 +68,9 @@ name = "Work"
 identifier = "gallery"
 url = "/#work"
 weight = 2
+
+[[Menu.Main]]
+name = "Contact"
+identifier = "contact"
+url = "/contact-me"
+weight = 3
