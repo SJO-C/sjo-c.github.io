@@ -48,7 +48,7 @@ color: "#fff"
 #     icon: code
 #     url: ""
 # [bool] Draft mode will decide if file will be published to 'public/' directory.
-draft: true
+draft: false
 ---
 I first got involved in the Linux Scene c.2012, with the initial Raspberry Pi model B, which ran the Raspbian OS (now known as Raspberry Pi OS) as its recommended OS.  As a consequence, I began to learn the ropes (so to speak) of Debian(based) Linux from around age 10.  From that point, I mainly used Debian & Ubuntu (and its derivatives) on my Pi & in Virtual Box on the Family Computer.  However, it wasn't until I reached Sixth Form that I began to experiment with non-Debian (dpkg/apt) derived Distros, owing to lack of familiarity with other package managers. In 2019, I tried Fedora, necessitating the learning of the Dandified Yum (DNF) package manager whilst also getting use to a system with SELinux enforcement. 
 
