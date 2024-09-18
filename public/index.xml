@@ -2,59 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sam O-C</title>
-    <link>http://localhost:1313/</link>
+    <link>https://samoc.uk/</link>
     <description>Recent content on Sam O-C</description>
     <generator>Hugo</generator>
     <language>en-GB</language>
     <lastBuildDate>Mon, 16 Sep 2024 18:52:57 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://samoc.uk/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Proxmox</title>
-      <link>http://localhost:1313/gallery/prxmx/</link>
+      <link>https://samoc.uk/gallery/prxmx/</link>
       <pubDate>Mon, 16 Sep 2024 18:52:57 +0100</pubDate>
-      <guid>http://localhost:1313/gallery/prxmx/</guid>
+      <guid>https://samoc.uk/gallery/prxmx/</guid>
       <description>&lt;p&gt;I began to try Proxmox in late 2023, as to learn how to use a Hypervisor, and given that Proxmox has a free tier (which is more or less the same as the paid edition), Proxmox seemed like a good choice to learn the ropes of Type #1 Hypervisors.&lt;/p&gt;&#xA;&lt;p&gt;I am still largely at the beginning with Proxmox, and have only lightly experimented clusters, and am yet to try the Ceph File System.  Despite this, I do feel comfortable with the Proxmox browser GUI, and as Proxmox is Debian based, I feel comfortable doing basic Hypervisor OS admin, like Package Updates and basic File System Admin.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>General Linux</title>
-      <link>http://localhost:1313/gallery/gen-linux/</link>
-      <pubDate>Mon, 16 Sep 2024 18:52:34 +0100</pubDate>
-      <guid>http://localhost:1313/gallery/gen-linux/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Student Futures Manifesto</title>
-      <link>http://localhost:1313/gallery/sfm/</link>
+      <link>https://samoc.uk/gallery/sfm/</link>
       <pubDate>Thu, 12 Sep 2024 14:17:21 +0100</pubDate>
-      <guid>http://localhost:1313/gallery/sfm/</guid>
+      <guid>https://samoc.uk/gallery/sfm/</guid>
       <description>&lt;p&gt;In late 2022, I applied and was subsequently recruited as a student consultant to a joint project between my Institution&amp;rsquo;s (University of Lincoln) &lt;a href=&#34;https://lalt.lincoln.ac.uk&#34;&gt;Lincoln Academy of Learning &amp;amp; Teaching&lt;/a&gt; and my Institution&amp;rsquo;s &lt;a href=&#34;https://lincolnsu.com/home&#34;&gt;Students&amp;rsquo; Union&lt;/a&gt;, called &lt;a href=&#34;https://lincoln.ac.uk/studentfuturesmanifesto&#34;&gt;the Student Futures Manifesto Project&lt;/a&gt;, a project that had been proposed by the &lt;a href=&#34;https://upp-foundation.org/wp-content/uploads/2022/02/A-Student-Futures-Manifesto-Final-Report-of-the-Student-Futures-Commission.pdf&#34;&gt;UPP Foundation&lt;/a&gt; to try to mitigate the impact the COVID-19 Pandemic had on higher education.  Lincoln was one of 20 such Institutions in the UK to partake, and I was one of Six Students within Lincoln who acted as consultants to the project.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Amnesty</title>
-      <link>http://localhost:1313/gallery/amnesty/</link>
+      <link>https://samoc.uk/gallery/amnesty/</link>
       <pubDate>Thu, 12 Sep 2024 14:16:43 +0100</pubDate>
-      <guid>http://localhost:1313/gallery/amnesty/</guid>
+      <guid>https://samoc.uk/gallery/amnesty/</guid>
       <description>&lt;p&gt;I became aware of Amnesty Int&amp;rsquo;l from my Mother around 2015, but was unable to obtain membership till the age of 14, which I did on my 14th Birthday.  Amnesty ignited a passion in me for fighting injustices around the world, from the asymmetry of the Israel/Palestine Conflict, to the Situation in Hong Kong, and in Europe with its response to the Syrian Refugee Crisis.&lt;/p&gt;&#xA;&lt;p&gt;Since then, I got involved with local Amnesty Groups, initially the Wirksworth Group owing to its locality and later with the Lincoln Group after moving to attend University. From that point, I acted as a sounding board for the Lincoln group with regard to youth, and since July 2024, I have been the Disabled Students&amp;rsquo; Justice Officer on the STAN (Student Action Network) Committee for 2024/25.&lt;/p&gt;</description>
     </item>
     <item>
       <title>NixOS</title>
-      <link>http://localhost:1313/gallery/nixos/</link>
+      <link>https://samoc.uk/gallery/nixos/</link>
       <pubDate>Wed, 11 Sep 2024 18:00:22 +0100</pubDate>
-      <guid>http://localhost:1313/gallery/nixos/</guid>
+      <guid>https://samoc.uk/gallery/nixos/</guid>
       <description>&lt;p&gt;As with LaTeX, I found out about NixOS during a Wikipedia Binge, and decided to try it as I have been vaguely involved in the Linux Desktop scene for about 11 Years.  As such, the idea of a Functional Paradigm based Package Management System was certainly interesting, and since I had recently fubar&amp;rsquo;d my Ubuntu Install (due to not understanding DKMS modules and the fact that ZFS on Ubuntu was reliant on them), I thought I&amp;rsquo;d give NixOS a try.&lt;/p&gt;</description>
     </item>
     <item>
       <title>LaTeX</title>
-      <link>http://localhost:1313/gallery/latex/</link>
+      <link>https://samoc.uk/gallery/latex/</link>
       <pubDate>Wed, 11 Sep 2024 17:32:17 +0100</pubDate>
-      <guid>http://localhost:1313/gallery/latex/</guid>
+      <guid>https://samoc.uk/gallery/latex/</guid>
       <description>&lt;h1 id=&#34;how-i-found-a-love-for-latex&#34;&gt;How I found a love for LaTeX.&lt;/h1&gt;&#xA;&lt;p&gt;I first came across LaTeX during a Wikipedia Binge whilst in Sixth Form (Year 12 specifically) and it piqued my interest owing to my strong dislike of the clunky and slow MS Word and the fast but limited Notepad.&lt;/p&gt;&#xA;&lt;p&gt;So, I began to try to learn LaTeX, at first I struggled, after all, what 17 Year Old would want to learn something almost exclusively used in academic and technical publishing. But the results spoke for themselves, the neat, clear typesetting; the ease of just having to worry about the contents, with the compiler doing all the (not) fun bits of layouts and image placements and the like.&lt;/p&gt;</description>
     </item>
     <item>
       <title>About</title>
-      <link>http://localhost:1313/about/</link>
+      <link>https://samoc.uk/about/</link>
       <pubDate>Wed, 11 Sep 2024 17:06:26 +0100</pubDate>
-      <guid>http://localhost:1313/about/</guid>
+      <guid>https://samoc.uk/about/</guid>
       <description>&lt;p&gt;Hi 👋🏼, I am Sam Orman-Chan.  I am currently a Student at the University of Lincoln in the UK, reading a Bachelors&amp;rsquo; in Computer Science.&lt;/p&gt;&#xA;&lt;p&gt;My interests are related to:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Intersections of Computer Science &amp;amp; Human Rights.&lt;/li&gt;&#xA;&lt;li&gt;Neurodivergence, Disability and Queerness.&lt;/li&gt;&#xA;&lt;li&gt;Democracy and the Impact Technology has thereof.&lt;/li&gt;&#xA;&lt;li&gt;History: Near East &amp;amp; Sinosphere Asia.&lt;/li&gt;&#xA;&lt;li&gt;Languages &amp;amp; Linguistics: Indo-European and Near Eastern.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Additionally, I like Rabbits. 🐰&lt;/p&gt;</description>
     </item>
   </channel>
