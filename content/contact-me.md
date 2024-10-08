@@ -2,7 +2,7 @@
 title = 'Contact'
 showdate = false
 date = 2024-09-18T11:52:01+01:00
-draft = true
+draft = false
 +++
 ## Get in Touch:
 
