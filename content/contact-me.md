@@ -6,9 +6,13 @@ draft = false
 +++
 ## Get in Touch:
 
-* Email me: [hi@samoc.dev](mailto:hi@samoc.dev)
-* Find me on Mastodon: [@ChanOfRed@fosstodon.org](https://fosstodon.org/@ChanOfRed)
-* Keybase.io: [sjoc](https://keybase.io/sjoc)
+ Email me: [hi@samoc.dev](mailto:hi@samoc.dev)
+
+ Find me on Mastodon: [@ChanOfRed@fosstodon.org](https://fosstodon.org/@ChanOfRed)
+
+ Keybase.io: [sjoc](https://keybase.io/sjoc)
+
+ 
 
 ---
 
