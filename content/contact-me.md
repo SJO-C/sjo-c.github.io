@@ -8,7 +8,7 @@ draft = false
 
  Email me: [hi@samoc.dev](mailto:hi@samoc.dev)
 
- Find me on Mastodon: [@ChanOfRed@fosstodon.org](https://fosstodon.org/@ChanOfRed)
+ Find me on <a rel="me" href="https://fosstodon.org/@ChanOfRed">Mastodon</a>
 
  Keybase.io: [sjoc](https://keybase.io/sjoc)
 
