@@ -40,7 +40,7 @@ credit = true
   url = "https://github.com/SJO-C/"
 
   [Params.Feat]
-  useStructuredData = false
+  useStructuredData = true
   # structuredDataGitHubUser = "SJO-C"
   useTermynal = true
   googleTagManager = ""
