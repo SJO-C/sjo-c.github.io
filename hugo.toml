@@ -1,6 +1,6 @@
 title = "Sam O-C"
-baseURL = "https://gaybranch.sjo-c-github-io.pages.dev/"
-# baseURL = "https://www.samoc.uk"
+# baseURL = "https://gaybranch.sjo-c-github-io.pages.dev/"
+ baseURL = "https://www.samoc.uk"
 languageCode = "en-GB"
 theme = "github.com/kdevo/osprey-delight/v5"
 tags = [ "personal", "homepage", "portfolio" ]
