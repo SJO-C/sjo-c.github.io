@@ -9,8 +9,8 @@ My interests are related to:
 
 * Intersections of Computer Science & Human Rights. :scales: 
 * Neurodivergence, Disability and Queerness. :rainbow_flag:
-* Democracy and the Impact Technology has thereof. :ballot_box"
-* History: Near East & Sinosphere Asia. :earth_asia"
+* Democracy and the Impact Technology has thereof. :ballot_box:
+* History: Near East & Sinosphere Asia. :earth_asia:
 * Languages & Linguistics: Indo-European and Near Eastern. :eu: 
 
 Additionally, I like Rabbits. :rabbit:
