@@ -8,6 +8,7 @@ disableKinds = [ "taxonomy" ]
 enableEmoji = true
 pygmentsUseClasses = true
 enableRobotsTXT = true
+ignoreLogs = ['warning-goldmark-raw-html']
 
 
 [module.imports]

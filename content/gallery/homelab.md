@@ -11,7 +11,7 @@ title: "Homelab"
 #   The specifics are documented here: https://gohugo.io/templates/lists/#order-content
 date: "2025-02-05T16:28:48Z"
 # [str] Gallery image file from the assets directory. 
-image: "images/homelab.png"
+image: "images/homelab.webp"
 # [str] Alternative (image) description.
 alt: ""
 # [css] Optional background color of the gallery item (if omitted, will use theme's fallback).
