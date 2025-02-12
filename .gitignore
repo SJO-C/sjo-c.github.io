@@ -1,3 +1,4 @@
 themes/osprey-delight
 .firebase/*.cache
 .vscode/ltex.dictionary.en-GB.txt
+_vendor/github.com/FortAwesome/Font-Awesome/.DS_Store
