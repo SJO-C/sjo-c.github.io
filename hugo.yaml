@@ -1,0 +1,64 @@
+title: Sam O-C
+baseURL: https://www.samoc.uk
+languageCode: en-GB
+theme: github.com/kdevo/osprey-delight/v5
+tags:
+  - personal
+  - homepage
+  - portfolio
+disableKinds:
+  - taxonomy
+enableEmoji: true
+pygmentsUseClasses: true
+enableRobotsTXT: true
+module:
+  imports:
+  - path: github.com/kdevo/osprey-delight/v5
+  - path: github.com/hugo-mods/icons
+Params:
+  description: Website of Samuel Orman-Chan
+  theme: dedark
+  mdTagline: |-
+    # I am:
+     # Sam Orman-Chan{cursor}
+  enforceSinglePage: false
+  copyright: true
+  credit: true
+  author:
+    name: Samuel Orman-Chan
+  Social:
+    - icon: fab fa-bluesky
+      icon_pack: fa-brands
+      name: bluesky
+      link: https://bsky.app/profile/samoc.gay
+    - type: fab linkedin
+      url: https://www.linkedin.com/in/samuel-orman-chan/
+    - type: fab github
+      url: https://github.com/SJO-C/
+  Feat:
+    useStructuredData: true
+    useTermynal: true
+    googleTagManager: ""
+    notifyOnNewThemeVersion: false
+  Image:
+    Logo:
+      resize: 600x
+    Gallery:
+      resize: 600x
+    Background:
+      resize: 1920x
+      resizeLQIP: 256x
+Menu:
+  Main:
+    - name: About
+      identifier: about
+      url: /#about
+      weight: 1
+    - name: Work
+      identifier: gallery
+      url: /#work
+      weight: 2
+    - name: Contact
+      identifier: contact-me
+      url: /#contact
+      weight: 3
