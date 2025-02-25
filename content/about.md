@@ -5,6 +5,8 @@ draft = false
 +++
 Hi :wave:, I am Sam Orman-Chan.  I am currently a Student at the University of Lincoln in the UK, reading a Bachelors' in Computer Science.
 
+[View my CV here](https://stanphotos.samoc.dev/cv5.pdf)
+
 My interests are related to:
 
 * Intersections of Computer Science & Human Rights. :scales: 
