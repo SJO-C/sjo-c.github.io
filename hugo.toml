@@ -1,6 +1,6 @@
 title = "Sam O-C"
-# baseURL = "https://gaybranch.sjo-c-github-io.pages.dev/"
- baseURL = "https://www.samoc.uk"
+
+baseURL = "https://www.samoc.uk"
 languageCode = "en-GB"
 theme = "github.com/kdevo/osprey-delight/v5"
 tags = [ "personal", "homepage", "portfolio" ]
@@ -10,9 +10,8 @@ pygmentsUseClasses = true
 enableRobotsTXT = true
 
 [module]
-[[module.imports]]
 path = "github.com/kdevo/osprey-delight/v5"
-path = "github.com/hugo-mods/icons"
+
 
 
 
@@ -33,7 +32,6 @@ credit = true
   [[Params.Social]]
   icon = "fa-bluesky"
   icon_pack = "fa-brands"
-  name = "fa-bluesky"
   link = "https://bsky.app/profile/samoc.gay"
 
   [[Params.Social]]
