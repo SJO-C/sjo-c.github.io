@@ -12,6 +12,8 @@ enableRobotsTXT = true
 [module]
 [[module.imports]]
 path = "github.com/kdevo/osprey-delight/v5"
+[module]
+[[module.imports]]
 path = github.com/hugo-mods/icons
 
 
