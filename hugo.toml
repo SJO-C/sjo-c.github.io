@@ -31,7 +31,8 @@ credit = true
 
   [[Params.Social]]
   icon = "fab fa-bluesky"
-  #icon_pack = "fa-brands"
+  icon_pack = "fa-brands"
+  name = "bluesky"
   link = "https://bsky.app/profile/samoc.gay"
 
   [[Params.Social]]
