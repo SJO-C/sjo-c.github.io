@@ -30,8 +30,8 @@ credit = true
   name = "Samuel Orman-Chan"
 
   [[Params.Social]]
-  icon = "fa-bluesky"
-  icon_pack = "fa-brands"
+  icon = "fab fa-bluesky"
+  #icon_pack = "fa-brands"
   link = "https://bsky.app/profile/samoc.gay"
 
   [[Params.Social]]
