@@ -32,7 +32,7 @@ path = "github.com/kdevo/osprey-delight/v5"
 #target = "assets/scss/fontawesome"
 #[[module.imports.mounts]]
 #source = "webfonts"
-#target = "static/webfonts"
+target = "static/webfonts"
 
 [Params]
 description = "Website of Samuel Orman-Chan"
@@ -48,8 +48,9 @@ credit = true
   name = "Samuel Orman-Chan"
 
   [[Params.Social]]
-  type = "fas fa-at"
-  url = "https://bsky.app/profile/samoc.gay"
+  icon = "fa-at"
+  icon_pack = "fa"
+  link = "https://bsky.app/profile/samoc.gay"
 
   [[Params.Social]]
   type = "fab linkedin"
