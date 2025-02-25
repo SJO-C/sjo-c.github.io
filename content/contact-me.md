@@ -65,7 +65,7 @@ nwUCZmm0tQIbDAUJCWYBgAAKCRB5VnQ97q3Zn4IpAPkBnvrBg7zE3H90zd/DonrS
 -----END PGP PUBLIC KEY BLOCK-----
 ```
 
-[Download my Public Key.](https://suphotos.samoc.dev/pgp7956743DEEADD99F.pub)
+[Download my Public Key.](https://stanphotos.samoc.dev/pgp7956743DEEADD99F.pub)
 
 ### Fingerprint:
 
