@@ -12,7 +12,6 @@ draft = false
 
  Keybase.io: [sjoc](https://keybase.io/sjoc)
 
- [My CV.](https://samocsrsocs0.s3.eu-central-003.backblazeb2.com/cv5.pdf)
 
  
 
