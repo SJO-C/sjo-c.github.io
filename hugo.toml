@@ -28,8 +28,8 @@ credit = true
   name = "Samuel Orman-Chan"
 
   [[Params.Social]]
-  type = "fab twitter"
-  url = "https://www.x.com/sorm_cha"
+  type = "fab bluesky"
+  url = "https://bsky.app/profile/samoc.gay"
 
   [[Params.Social]]
   type = "fab linkedin"
