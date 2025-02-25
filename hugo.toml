@@ -28,7 +28,7 @@ credit = true
   name = "Samuel Orman-Chan"
 
   [[Params.Social]]
-  type = "fab fa-at"
+  type = "fas fa-at"
   url = "https://bsky.app/profile/samoc.gay"
 
   [[Params.Social]]
