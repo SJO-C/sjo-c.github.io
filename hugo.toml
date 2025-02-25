@@ -50,6 +50,7 @@ credit = true
   [[Params.Social]]
   icon = "fa-at"
   icon_pack = "fa"
+  icon_name = "fa-at"
   link = "https://bsky.app/profile/samoc.gay"
 
   [[Params.Social]]
