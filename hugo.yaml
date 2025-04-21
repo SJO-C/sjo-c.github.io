@@ -27,10 +27,10 @@ Params:
   author:
     name: Samuel Orman-Chan
   Social:
-    - icon: fab fa-bluesky
-      icon_pack: fa-brands
-      name: bluesky
-      link: https://bsky.app/profile/samoc.gay
+    # - icon: fab fa-bluesky
+    #   icon_pack: fa-brands
+    #   name: bluesky
+    #   link: https://bsky.app/profile/samoc.gay
     - type: fab linkedin
       url: https://www.linkedin.com/in/samuel-orman-chan/
     - type: fab github

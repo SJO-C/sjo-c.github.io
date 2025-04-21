@@ -6,29 +6,8 @@
     <description>Recent content on Sam O-C</description>
     <generator>Hugo</generator>
     <language>en-GB</language>
-    <lastBuildDate>Wed, 05 Feb 2025 16:28:48 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Sep 2024 11:52:01 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Homelab</title>
-      <link>http://localhost:1313/gallery/homelab/</link>
-      <pubDate>Wed, 05 Feb 2025 16:28:48 +0000</pubDate>
-      <guid>http://localhost:1313/gallery/homelab/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Docker</title>
-      <link>http://localhost:1313/gallery/docker/</link>
-      <pubDate>Tue, 12 Nov 2024 14:22:09 +0000</pubDate>
-      <guid>http://localhost:1313/gallery/docker/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Dissertation</title>
-      <link>http://localhost:1313/gallery/dissertation/</link>
-      <pubDate>Tue, 08 Oct 2024 12:44:27 +0100</pubDate>
-      <guid>http://localhost:1313/gallery/dissertation/</guid>
-      <description></description>
-    </item>
     <item>
       <title>Contact</title>
       <link>http://localhost:1313/contact-me/</link>
