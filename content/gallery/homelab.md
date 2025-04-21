@@ -40,8 +40,12 @@ color: "#fff"
     # - data: exit
     #   wait: 75
 # [bool] Draft mode will decide if file will be published to 'public/' directory.
-draft: true
+draft: false
 ---
-I have been 'home-labbing' since 2021 whilst studying.  The systems have been consistently small scale using Proxmox VE on small, low powered Intel N5105 Router Mini-PCs, and more recently on a 2nd Hand HPE MicroServer Gen6.  Other components have/do included TP_Link 2.5GbE 5 Port Switch, an off-brand 2.5GbE Managed Switch, GLiNet Travel Router and a 16 Port 1GbE TP_Link Switch.
+I have been 'home-labbing' since 2021 whilst studying.  The systems have been consistently small scale using Proxmox VE on small, low powered Intel N5105 Router Mini-PCs, and more recently on a 2nd Hand HP MicroServer Gen6.  Other components have/do included TP_Link 2.5GbE 5 Port Switch, an off-brand 2.5GbE Managed Switch, GLiNet Travel Router and a 16 Port 1GbE TP_Link Switch.
 
-Currently, I self-host a set of VMs, one of which runs Docker, and one running OpenMediaVault - which serves as a local backup (Apple Time Machine) server for my MacBook.  The underlying Proxmox host (the HP Server) uses a ZFS filesystem and is rsync'd to a remote NAS running TrueNAS Scale.  
+Currently, I self-host a set of VMs, one of which runs Docker, and one running OpenMediaVault - which serves as a local backup (Apple Time Machine) server for my MacBook.  The underlying Proxmox host (the HP Server) uses a ZFS filesystem and is rsync'd to a remote NAS running TrueNAS Scale.
+
+The remote NAS runs a number of Docker Services including Plex, Jellyfin, Pinry (Self-hosted Pinterest Alternative), CraftyControl (Minecraft), Mealie (A food recipe manager), and PiHole for Ad-Blocking and Local DNS resolution.
+
+The remote NAS also runs an instance of Home Assistant for my Parents to control their heating system owing to the poor quality of the system's native app.  
