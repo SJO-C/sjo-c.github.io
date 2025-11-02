@@ -6,7 +6,7 @@ draft = false
 +++
 ## Get in Touch:
 
- Email me: [hi@samoc.dev](mailto:hi@samoc.dev)
+ Email me: [sam@samoc.uk](mailto:sam@samoc.uk)
 
  Find me on <a rel="me" href="https://fosstodon.org/@ChanOfRed">Mastodon</a>
 

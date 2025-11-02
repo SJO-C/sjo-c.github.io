@@ -49,3 +49,5 @@ Currently, I self-host a set of VMs, one of which runs Docker, and one running O
 The remote NAS runs a number of Docker Services including Plex, Jellyfin, Pinry (Self-hosted Pinterest Alternative), CraftyControl (Minecraft), Mealie (A food recipe manager), and PiHole for Ad-Blocking and Local DNS resolution.
 
 The remote NAS also runs an instance of Home Assistant for my Parents to control their heating system owing to the poor quality of the system's native app.  
+
+Since Oct. 2025, I have begun to try to learn Kubernetes (specifically K3S).  
