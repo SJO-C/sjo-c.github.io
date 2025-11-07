@@ -27,6 +27,6 @@ Then, around 2 Weeks Later, I [as Team Captain] recieved a phone call, from one 
 
 Next, we travlled to Manchester on the 26th Feb to be filmed the following morning for our First Match.  This Match was Broadcast on the 1st September on BBC2 and is viewable in the UK [here.](https://www.bbc.co.uk/iplayer/episode/m002j0hj/university-challenge-202526-8-lincoln-v-lancaster)
 
-And was won by us [Lincoln] with 170 Points to Lancaster's 145.
+And was won by us [Lincoln] with **170** Points to Lancaster's **145**.
 
 Thus, putting us through to the 2nd Round which is expected to be broadcast on the Mon 15th Dec 2025.
