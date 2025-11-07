@@ -3,7 +3,7 @@
 title: "University Challenge"
 # [str] Optional subtitle of the project. 
 #   Functions as an additional explanation when hovering over a gallery item (comment out the following line).
-subtitle: "Ask me about my Experience on University Challenge"
+subtitle: "Ask me about my Experience on University Challenge."
 # [date] Project publication date.
 #   Changes order: The newest item will be displayed first in the gallery. 
 #   Just like Hugo's natural ordering, this is anti-chronological.

@@ -3,7 +3,7 @@
 title: "NixOS"
 # [str] Optional subtitle of the project. 
 #   Functions as an additional explanation when hovering over a gallery item (comment out the following line).
-subtitle: "Ask Me about NixOS"
+subtitle: "Ask Me about NixOS."
 # [date] Project publication date.
 #   Changes order: The newest item will be displayed first in the gallery. 
 #   Just like Hugo's natural ordering, this is anti-chronological.

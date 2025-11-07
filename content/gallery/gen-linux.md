@@ -3,7 +3,7 @@
 title: "General Linux"
 # [str] Optional subtitle of the project. 
 #   Functions as an additional explanation when hovering over a gallery item (comment out the following line).
-subtitle: "Ask me about my General Linux Usage"
+subtitle: "Ask me about my General Linux Usage."
 # [date] Project publication date.
 #   Changes order: The newest item will be displayed first in the gallery. 
 #   Just like Hugo's natural ordering, this is anti-chronological.
