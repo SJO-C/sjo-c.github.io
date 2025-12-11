@@ -13,7 +13,7 @@ date: "2024-09-11T18:00:22+01:00"
 # [str] Gallery image file from the assets directory. 
 image: "images/nixos.png"
 # [str] Alternative (image) description.
-alt: "NixOS Snowflake Hexagon Logo."
+alt: "NixOS 'Snowflake' Hexagon Logo."
 # [css] Optional background color of the gallery item (if omitted, will use theme's fallback).
 color: "#fff"
 # [css] Optional gallery item hover color (if omitted, will use theme's fallback).

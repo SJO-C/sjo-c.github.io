@@ -8,7 +8,7 @@ Hi :wave:, I am Sam Orman-Chan.  I am a DipHE Holder in Computer Science, based 
 My interests are related to:
 
 * Intersections of Computer Science & Human Rights. :scales: 
-* Neurodivergence, Disability and Queerness. :rainbow_flag:
+* Disability and Queerness. :rainbow_flag:
 * Democracy and the Impact Technology has thereof. :ballot_box:
 * History: Near East & Sinosphere Asia. :earth_asia:
 * Languages & Linguistics: Indo-European and Near Eastern. :eu: 

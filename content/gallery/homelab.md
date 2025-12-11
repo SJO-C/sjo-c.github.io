@@ -50,4 +50,6 @@ The remote NAS runs a number of Docker Services including Plex, Jellyfin, Pinry 
 
 The remote NAS also runs an instance of Home Assistant for my Parents to control their heating system owing to the poor quality of the system's native app.  
 
-Since Oct. 2025, I have begun to try to learn Kubernetes (specifically K3S).  
+As of Oct. 2025, I have begun to try to learn Kubernetes (specifically K3S).  
+
+A medium turn goal of mine is to get my head fully around the Ansible Automation Stack, to assist in setting-up systems and provisioning VMs and Cloud Hosted Services and generally creating a more automated system.

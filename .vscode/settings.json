@@ -6,5 +6,6 @@
         "Orman",
         "showdate",
         "Snowley"
-    ]
+    ],
+    "markdown.validate.enabled": true
 }
