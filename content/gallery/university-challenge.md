@@ -29,4 +29,4 @@ Next, we travlled to Manchester on the 26th Feb to be filmed the following morni
 
 And was won by us [Lincoln] with **170** Points to Lancaster's **145**.
 
-Thus, putting us through to the 2nd Round which is expected to be broadcast on the Mon 15th Dec 2025.
+Thus, putting us through to the 2nd Round which is being broadcast on the Mon 15th Dec 2025 at 20:30.
