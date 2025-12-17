@@ -23,5 +23,5 @@ Please sign and encrypt if you can. :thumbsup:
 
 ### Fingerprint:
 
-`4803 A971 B050 17AC F8A5 FB20 7956 743D EEAD D99F`
+`**4803 A971 B050 17AC F8A5 FB20 7956 743D EEAD D99F**`
 
