@@ -10,6 +10,8 @@ draft = false
 
  Find me on Mastodon at: [@ChanOfRed@osstodon.org](https://www.fosstodon.org/@ChanOfRed)
 
+Matrix IM me at: @sorm_cha:matrix.org
+
  Keybase.io: [sjoc](https://keybase.io/sjoc)
 
 
