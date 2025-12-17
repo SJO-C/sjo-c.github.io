@@ -8,7 +8,7 @@ draft = false
 
  Email me: [sam@samoc.uk](mailto:sam@samoc.uk)
 
- Find me on <a rel="me" href="https://fosstodon.org/@ChanOfRed">Mastodon</a>
+ Find me on Mastodon at: [@ChanOfRed@osstodon.org](https://www.fosstodon.org/@ChanOfRed)
 
  Keybase.io: [sjoc](https://keybase.io/sjoc)
 
@@ -23,5 +23,5 @@ Please sign and encrypt if you can. :thumbsup:
 
 ### Fingerprint:
 
-`**4803 A971 B050 17AC F8A5 FB20 7956 743D EEAD D99F**`
+`4803 A971 B050 17AC F8A5 FB20 7956 743D EEAD D99F`
 
