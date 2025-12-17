@@ -17,13 +17,13 @@ Matrix IM me at: @sorm_cha:matrix.org
 
 ---
 
-## PGP:
+### PGP:
 
 Please sign and encrypt if you can. :thumbsup:
 
 [Download my Public Key.](https://files.samoc.dev/pgp7956743DEEADD99F.pub)
 
-### Fingerprint:
+#### Fingerprint:
 
 `4803 A971 B050 17AC F8A5 FB20 7956 743D EEAD D99F`
 
