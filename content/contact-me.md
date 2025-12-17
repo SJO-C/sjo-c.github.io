@@ -8,7 +8,7 @@ draft = false
 
  Email me: [sam@samoc.uk](mailto:sam@samoc.uk)
 
- Find me on Mastodon at: [@ChanOfRed@osstodon.org](https://www.fosstodon.org/@ChanOfRed)
+ Find me on Mastodon at: [@ChanOfRed@fosstodon.org](https://www.fosstodon.org/@ChanOfRed)
 
 Matrix IM me at: @sorm_cha:matrix.org
 
