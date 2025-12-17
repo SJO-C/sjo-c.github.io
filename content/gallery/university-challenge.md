@@ -35,4 +35,4 @@ This match was won by UCL with **190** Points to Lincoln's **85**, thus knocking
 
 I will say that I thoroughly enjoyed appearing on the show, and making history as the University of Lincoln's first appearance on the venerable show.
 
-A bonus is that when a team leaves the competition, the members get to keep their nameplate that is used on the show, on the lightboxes.
+A bonus is that when a team leaves the competition, the members get to keep their nameplate that is used on the show. I am planning on creating or commissioning a lightbox to hold mine.
