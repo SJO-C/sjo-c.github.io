@@ -1,4 +1,9 @@
 +++
+title = 'Trial by Kernel'
+date = 2026-02-05T16:32:12Z
+draft = false
++++
++++
 title = 'Trial By Boot'
 date = 2026-02-05T15:57:54Z
 subtitle = 'My attempts at recompiling the Linux Kernel on Ubuntu.'
