@@ -62,3 +62,7 @@ Menu:
       identifier: contact-me
       url: /#contact
       weight: 3
+    - name: Projects
+      identifier: projects
+      url: /projects/
+      weight: 4
