@@ -2,9 +2,9 @@
 title = 'Trial By Boot'
 date = 2026-02-05T15:57:54Z
 subtitle = 'My attempts at recompiling the Linux Kernel on Ubuntu.'
-draft = true
+draft = false
 +++
-# My attempts at recompiling the Linux Kernel on Ubuntu.
+## My attempts at recompiling the Linux Kernel on Ubuntu.
 
 As a daily Linux user, I consider it to a right of passage to recompile the Linux Kernel at least once.  But what started as a fun little weekend project turned into weeks of frustration and a laptop that couldn't access its own file system.
 
