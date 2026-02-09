@@ -6,6 +6,8 @@ draft = false
 +++
 ## My attempts at recompiling the Linux Kernel on Ubuntu.
 
+![Tux](https://www.kernel.org/theme/images/logos/tux.png)
+
 As a daily Linux user, I consider it to a right of passage to recompile the Linux Kernel at least once.  But what started as a fun little weekend project turned into weeks of frustration and a laptop that couldn't access its own file system.
 
 It began so well, I was following a guide, determining which 'modules' I could dispense with, for a leaner and hopefully more responsive system and seeing other cool modules I could add to experiment with.  However, I quickly noticed a distinct lack of a Open ZFS module, which I understand to be a DKMS module usually. This was unfortunate as, at the time, I was using Ubuntu's Experimental ZFS support as my filesystem.  This turned out to be the origin of the chaos I later experienced. 
