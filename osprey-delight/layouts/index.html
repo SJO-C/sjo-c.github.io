@@ -12,11 +12,11 @@
           {{- end }}
           {{ if templates.Exists $partial }}
             <section class="{{ .Identifier }}" id="{{ replace (replace .URL "/" "") "#" "" }}">
-            {{ partial $partial $page }}
+            {{ template $partial $page }}
             </section>
           {{ else if $page }}
             <section class="default" id="{{ replace (replace .URL "/" "") "#" "" }}">
-            {{ partial "partials/sections/default.html" $page }}
+            {{ template "partials/sections/default.html" $page }}
             </section>
           {{ else }}
             {{ warnf "could not find page for menu: %#v\n\t💡 TIP: Please create one via `hugo new %s`" $m $m.Identifier }}
