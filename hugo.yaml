@@ -12,8 +12,6 @@ enableEmoji: true
 pygmentsUseClasses: true
 enableRobotsTXT: true
 
-
-
 module:
   imports:
   - path: github.com/kdevo/osprey-delight/v5
