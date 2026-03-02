@@ -35,10 +35,10 @@ The following theme aspects have been changed delightfully:
 * Add "disabled JS message" since the page does not properly work without it
 * Blazing fast loading speeds
   * Removed menu *open* and *close* images (and instead use icons)
-  * Changed font to *Roboto Slab* (headers) and *Roboto* (body) resulting in a smaller font size and wider availability
+  * Changed font to *IBM-Plex-Sans Slab* (headers) and *IBM-Plex-Sans* (body) resulting in a smaller font size and wider availability
   * Minified and bundled JavaScript to reduce network requests
   * Updated lazysizes to [v5.1.2](https://github.com/aFarkas/lazysizes/releases/tag/5.1.2) (current latest stable), about 15% smaller
-* GPDR: No external requests to 3rd parties per default (Roboto fonts included)
+* GPDR: No external requests to 3rd parties per default (IBM-Plex-Sans fonts included)
 * SEO: Added [structured data](https://developers.google.com/search/docs/guides/intro-structured-data) support
 
 #### Contact form
