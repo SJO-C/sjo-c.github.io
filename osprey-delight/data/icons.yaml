@@ -25,3 +25,10 @@ ok: fas check-circle
 
 # Social
 github: fab github
+bluesky: fab bluesky
+linkedin: fab linkedin
+twitter: fab twitter
+facebook: fab facebook
+instagram: fab instagram
+youtube: fab youtube
+
