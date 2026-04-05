@@ -4,7 +4,7 @@ date = 2026-04-05T13:39:04+01:00
 subtitle = 'It took me nearly 9 months to get this job...'
 draft = false
 +++
-![Generic School, I don't actually work at this one.](../../assets/images/privschool.jpeg)
+![Generic School, I don't actually work at this one.](/assets/images/privschool.jpeg)
 
 As of Mid-March, I have been working at an Independent School in Sheffield.  The area I am working in is the IT department, helping keep the school running.
 
