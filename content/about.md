@@ -3,8 +3,7 @@ title = 'About'
 date = 2024-09-11T17:06:26+01:00
 draft = false
 +++
-Hi :wave:, I am Sam Orman-Chan.  I am a DipHE Holder in Computer Science, based in the Lincoln, UK Area.
-
+Hi :wave:, I am Sam Orman-Chan.  I am a DipHE Holder in Computer Science, working in School IT Support in Sheffield, UK.
 My interests are related to:
 
 * Intersections of Computer Science & Human Rights. :scales: 
