@@ -1,0 +1,1 @@
+{"rule":"OXFORD_SPELLING_Z_NOT_S","sentence":"^\\QHowever the Trust is a Microsoft House through and through, meaning most config is conducted on Windows Server and then synchronised to Google Cloud.\\E$"}
