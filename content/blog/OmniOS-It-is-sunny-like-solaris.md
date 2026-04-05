@@ -1,5 +1,5 @@
 +++
-title = 'OmniOS: It is Sunny Like Solaris'
+title = "OmniOS: It's Sunny Like Solaris"
 date = 2026-02-08T18:02:25Z
 draft = true
 +++
