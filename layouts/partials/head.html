@@ -17,7 +17,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="referrer" content="strict-origin-when-cross-origin">
   <base href="{{ .Site.BaseURL }}">
-  <a rel="me" href="https://fosstodon.org/@ChanOfRed">Mastodon</a>
+ 
   {{ if .Description -}}
     <meta name="description" content="{{ .Description }}">
   {{- else if .Site.Params.description -}}
@@ -107,6 +107,6 @@
     {{ template "_internal/google_analytics.html" . }}
   {{ end }}
   {{ partial "head-extended.html" . }}
-
+ <a rel="me" href="https://fosstodon.org/@ChanOfRed">Mastodon</a>
   
 </head>
