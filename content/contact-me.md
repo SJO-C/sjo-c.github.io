@@ -6,13 +6,13 @@ draft = false
 +++
 ## Get in Touch:
 
- Email me: [sam@samoc.uk](mailto:sam@samoc.uk)
+Email me: [sam@samoc.uk](mailto:sam@samoc.uk)
 
- Find me on Mastodon at: [@ChanOfRed@fosstodon.org](https://www.fosstodon.org/@ChanOfRed)
+Find me on Mastodon at: [@ChanOfRed@fosstodon.org](https://www.fosstodon.org/@ChanOfRed)
 
 Matrix IM me at: @sorm_cha:matrix.org
 
- Keybase.io: [sjoc](https://keybase.io/sjoc)
+Keybase.io: [sjoc](https://keybase.io/sjoc)
 
 
 ---
